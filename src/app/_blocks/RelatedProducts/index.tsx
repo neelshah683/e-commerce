@@ -1,9 +1,10 @@
 import React from 'react'
 
 import { Product } from '../../../payload/payload-types'
-import { Gutter } from '../../_components/Gutter'
-import classes from './index.module.scss'
 import { Card } from '../../_components/Card'
+import { Gutter } from '../../_components/Gutter'
+
+import classes from './index.module.scss'
 
 export type RelatedProductsProps = {
   blockType: 'relatedProducts'
