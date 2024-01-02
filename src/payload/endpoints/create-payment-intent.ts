@@ -3,7 +3,7 @@ import Stripe from 'stripe'
 
 import type { CartItems } from '../payload-types'
 
-const stripe = new Stripe(process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY || '', {
+const stripe = new Stripe(process.env.STRIPE_SECRET_KEY || '', {
   apiVersion: '2022-08-01',
 })
 
