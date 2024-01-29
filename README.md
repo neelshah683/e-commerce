@@ -3,9 +3,9 @@ Welcome to the future of shopping—e-commerce! Discover a world where convenien
 
 * **Admin Panel:** Controls SEO settings, content, & sales data.
   
-* **Homepage Segments:** Showcases categories, ongoing deals, and new collections for quick browsing.
+* **Homepage Segments:** Showcase categories, ongoing deals, and new collections for quick browsing.
 
-* **Navigation & Filtering:**  Smooth category filters, pagination for extensive product browsing.
+* **Navigation & Filtering:**  Smooth category filters, and pagination for extensive product browsing.
 
  * **Product Pages:**  Precise yet comprehensive details, paired with smart product recommendations.
 
