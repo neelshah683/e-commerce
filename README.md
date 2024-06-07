@@ -1,4 +1,4 @@
-## Introduction:
+## Introduction: OptiControl CMS
 Welcome to the future of shopping—e-commerce! Discover a world where convenience meets choice. From browsing curated collections to secure transactions, our platform brings seamless shopping to your fingertips. Explore, select, and purchase with ease, all within a user-friendly environment designed for your satisfaction. Experience the power of online retail at its best!
 
 * **Admin Panel:** Controls SEO settings, content, & sales data.
